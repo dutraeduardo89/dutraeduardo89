@@ -164,21 +164,4 @@ Busco escrever códigos mais limpos, estruturar melhor minhas aplicações e tra
 <br/>
 
 ---
-
-## 📊 Estatísticas
-
-<img 
-    alt="GitHub Stats" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api?username=dutraeduardo89&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-/>
-
-<img 
-    alt="Top Langs" 
-    height="180px" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutraeduardo89&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=8" 
-/>
-
----
-
 > Transformando ideias em soluções reais através do código.
