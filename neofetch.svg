@@ -1,0 +1,81 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
+  <defs>
+    <style>
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12; }
+      .header { fill: #161b22; }
+      .text { font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; fill: #c9d1d9; white-space: pre; }
+      .ascii { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 10.5px; line-height: 11px; fill: #8b949e; white-space: pre; }
+      .ascii-hi { fill: #58a6ff; }
+      .title { fill: #58a6ff; font-weight: bold; }
+      .section { fill: #7ee787; font-weight: bold; }
+      .key { fill: #79c0ff; }
+      .dots { fill: #484f58; }
+      .val { fill: #e6edf3; }
+      .link { fill: #a5d6ff; }
+    </style>
+  </defs>
+
+  <rect class="bg" x="2" y="2" width="876" height="456" rx="12" />
+  
+  <path class="header" d="M 14 2 L 866 2 Q 878 2 878 14 L 878 34 L 2 34 L 2 14 Q 2 2 14 2 Z" />
+  <circle cx="22" cy="18" r="6" fill="#ff5f56" />
+  <circle cx="42" cy="18" r="6" fill="#ffbd2e" />
+  <circle cx="62" cy="18" r="6" fill="#27c93f" />
+  <text class="text" x="440" y="22" text-anchor="middle" fill="#8b949e">eduardo@dutra: ~/perfil — neofetch</text>
+
+  <g transform="translate(24, 58)">
+    <text class="ascii" y="0">              .,:;ii11111ii;:,.             </text>
+    <text class="ascii" y="13">           .:itfLLCCCCCCCCCCLLfti:.         </text>
+    <text class="ascii" y="26">         .;tLGGGG000000000000GGGGLt;.       </text>
+    <text class="ascii" y="39">        :fGG0088888888888888888800GGf:      </text>
+    <text class="ascii" y="52">       iG0088@@@@@@@@@@@@@@@@@@@@8800Gi     </text>
+    <text class="ascii" y="65">      t088@@@@@@00GGGGGGGGGG00@@@@@@880t    </text>
+    <text class="ascii" y="78">     f08@@@@0Gft1iiiiiiiiiiii1tfG0@@@@80f   </text>
+    <text class="ascii" y="91">    L88@@@0Lt1ii;;;;;;;;;;;;;;;;ii1tL0@@@88L </text>
+    <text class="ascii" y="104">   C8@@@0f1i;;::,,............,,::;;i1f0@@@8C</text>
+    <text class="ascii" y="117">  G8@@@Gt1;;:,,..  ..........  ..,,::;1tG@@@8G</text>
+    <text class="ascii" y="130"> 08@@@0t1;:,.   .,:;i1tttt1i;:,.   .,:;1t0@@@80</text>
+    <text class="ascii" y="143"><tspan class="ascii-hi">||</tspan>@@@0t1;:.   .:itfLLLCCCCLLLfti:.   .:;1t0@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="156"><tspan class="ascii-hi">||</tspan>@@@Lt1;.   :tLG00888888888800GLt:   .;1tL@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="169"><tspan class="ascii-hi">||</tspan>@@@ft1;.  .f08@@@00GGGGGG00@@@80f.  .;1tf@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="182"><tspan class="ascii-hi">||</tspan>@@@ft1;.  i08@@0Lti;::::;itL0@@80i  .;1tf@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="195"><tspan class="ascii-hi">||</tspan>@@@Lt1;.  t8@@0t;:..    ..:;t0@@8t  .;1tL@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="208"><tspan class="ascii-hi">||</tspan>@@@0t1;.  f8@@Gt;:.  ..  .:;tG@@8f  .;1t0@@@<tspan class="ascii-hi">||</tspan></text>
+    <text class="ascii" y="221"> 08@@@0t1;. L8@@@0Lt1i;;;;i1tL0@@@8L .;1t0@@@80</text>
+    <text class="ascii" y="234">  G8@@@Gt1;.C8@@@@@8800000088@@@@@8C.;1tG@@@8G</text>
+    <text class="ascii" y="247">   C8@@@0f1;i08@@@@@@@@@@@@@@@@@@80i;1f0@@@8C</text>
+    <text class="ascii" y="260">    L88@@@0L1tG08@@@@@@@@@@@@@@80Gt1L0@@@88L </text>
+    <text class="ascii" y="273">     f08@@@@0GLffLLCCG0000GCCLLffLG0@@@@80f   </text>
+    <text class="ascii" y="286">      t088@@@@@@8800GGGGGGGG0088@@@@@@880t    </text>
+    <text class="ascii" y="299">       iG0088@@@@@@@@@@@@@@@@@@@@8800Gi     </text>
+    <text class="ascii" y="312">        :fGG0088888888888888888800GGf:      </text>
+    <text class="ascii" y="325">       .,:;itfLLGGGGGGGGGGGGGGLLfti;:,.     </text>
+    <text class="ascii" y="338">    .:itfLLCCG008888888888888800GCCLLfti:.  </text>
+    <text class="ascii" y="351">  .:tLG0088@@@@@@@@@@@@@@@@@@@@@@@@8800GLt:.</text>
+    <text class="ascii" y="364"> .iG088@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@880Gi</text>
+  </g>
+
+  <g transform="translate(345, 62)">
+    <text class="text" y="0"><tspan class="title">eduardo@dutra</tspan> <tspan class="dots">-------------------------------------------</tspan></text>
+    
+    <text class="text" y="22"><tspan class="key">Cargo:</tspan> <tspan class="dots">........... </tspan><tspan class="val">Estagiário em Desenv. de Software</tspan></text>
+    <text class="text" y="40"><tspan class="key">Empresa:</tspan> <tspan class="dots">......... </tspan><tspan class="val">Refatora Informática</tspan></text>
+    <text class="text" y="58"><tspan class="key">Local:</tspan> <tspan class="dots">........... </tspan><tspan class="val">São Vicente, SP - Brasil</tspan></text>
+    <text class="text" y="76"><tspan class="key">Formação:</tspan> <tspan class="dots">........ </tspan><tspan class="val">ETEC Dra. Ruth Cardoso & FORTEC</tspan></text>
+    <text class="text" y="94"><tspan class="key">Sistemas:</tspan> <tspan class="dots">........ </tspan><tspan class="val">Linux Ubuntu, Windows</tspan></text>
+
+    <text class="text" y="124"><tspan class="section">- Stack e Ferramentas</tspan> <tspan class="dots">-----------------------------------</tspan></text>
+    <text class="text" y="146"><tspan class="key">Back-end:</tspan> <tspan class="dots">........ </tspan><tspan class="val">C#, .NET, ASP.NET Core, APIs REST</tspan></text>
+    <text class="text" y="164"><tspan class="key">Bancos:</tspan> <tspan class="dots">.......... </tspan><tspan class="val">PostgreSQL, MySQL, MongoDB</tspan></text>
+    <text class="text" y="182"><tspan class="key">Front e Mobile:</tspan> <tspan class="dots">.. </tspan><tspan class="val">TypeScript, React, Next.js, Flutter</tspan></text>
+    <text class="text" y="200"><tspan class="key">IA:</tspan> <tspan class="dots">.............. </tspan><tspan class="val">Ollama, Claude, Codex, Cursor</tspan></text>
+
+    <text class="text" y="230"><tspan class="section">- Projetos em Destaque</tspan> <tspan class="dots">----------------------------------</tspan></text>
+    <text class="text" y="252"><tspan class="key">OctoSense:</tspan> <tspan class="dots">....... </tspan><tspan class="val">App Saúde (Flutter + .NET + Ollama)</tspan></text>
+    <text class="text" y="270"><tspan class="key">KeySec:</tspan> <tspan class="dots">.......... </tspan><tspan class="val">Portal Cibersegurança (Next.js)</tspan></text>
+
+    <text class="text" y="300"><tspan class="section">- Contato e Redes</tspan> <tspan class="dots">---------------------------------------</tspan></text>
+    <text class="text" y="322"><tspan class="key">LinkedIn:</tspan> <tspan class="dots">........ </tspan><tspan class="link">in/eduardo-dutra-a99663401</tspan></text>
+    <text class="text" y="340"><tspan class="key">GitHub:</tspan> <tspan class="dots">.......... </tspan><tspan class="link">github.com/dutraeduardo89</tspan></text>
+  </g>
+</svg>
