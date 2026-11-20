@@ -1,41 +1,28 @@
 <div align="center">
 
-<img src="./profile.svg" width="100%" alt="Eduardo Dutra - Perfil"/>
+<img src="./profile.svg" width="100%" alt="Eduardo Dutra"/>
 
 <br/>
 
-<h2>Desenvolvedor de Software</h2>
+Desenvolvedor de Software | Back-end | .NET
 
-<p>
-Back-end Development · .NET · APIs REST · Inteligência Artificial
-</p>
-
-<a href="https://github.com/dutraeduardo89">
-<img src="https://img.shields.io/badge/GitHub-dutraeduardo89-161b22?style=flat-square&logo=github" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/eduardo-dutra-a99663401/">
-<img src="https://img.shields.io/badge/LinkedIn-Conectar-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
-</a>
+GitHub · LinkedIn
 
 </div>
 
-Sobre mim
+Perfil
 
-Atualmente sou Estagiário em Desenvolvimento de Software na Refatora Informática, onde busco desenvolver minhas habilidades técnicas e ampliar minha experiência na área de tecnologia.
+Atualmente atuo como estagiário em Desenvolvimento de Software na Refatora Informática. Tenho foco em desenvolvimento back-end com C# e .NET, construção de APIs REST, integração com bancos de dados e exploração de inteligência artificial aplicada ao desenvolvimento de software.
 
-Meu principal interesse está no desenvolvimento back-end com C# e .NET, especialmente na construção de APIs REST, integração com bancos de dados e desenvolvimento de aplicações.
+Também trabalho com tecnologias de front-end e desenvolvimento mobile, buscando ampliar minha experiência na construção de aplicações completas.
 
-Também exploro o uso de inteligência artificial local e ferramentas modernas para desenvolver soluções mais eficientes.
-
-Informações profissionais
-
-	
-Atuação	Estagiário em Desenvolvimento de Software
+Informação	Detalhes
+Cargo	Estagiário em Desenvolvimento de Software
 Empresa	Refatora Informática
-Localização	São Vicente, São Paulo
+Localização	São Vicente, SP — Brasil
 Formação	ETEC Dra. Ruth Cardoso e FORTEC
-Ambiente	Linux Ubuntu e Windows
-Stack tecnológica
+Sistemas	Linux Ubuntu e Windows
+Tecnologias
 
 <div align="center">
 
@@ -45,9 +32,9 @@ Back-end
 
 Front-end e Mobile
 
-<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter" alt="Tecnologias Front-end e Mobile"/>
+<img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter" alt="Front-end e Mobile"/>
 
-Banco de dados
+Bancos de dados
 
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Bancos de dados"/>
 
@@ -59,7 +46,7 @@ Ferramentas e ambiente
 
 Outras ferramentas: ASP.NET Core, APIs REST, Ollama, Claude, Codex e Cursor.
 
-Projetos selecionados
+Projetos
 
 <div align="center">
 
@@ -75,40 +62,32 @@ Projetos selecionados
 
 OctoSense
 
-Aplicativo Android integrado ao Health Connect, desenvolvido para coletar dados de sensores de smartwatches e gerar insights com inteligência artificial local.
+Aplicativo Android integrado ao Health Connect para leitura de dados de sensores de smartwatches e geração de insights utilizando inteligência artificial local.
 
 Tecnologias: C#, .NET, Flutter, MongoDB e Ollama.
 
+Repositório: octosense-open-source
+
 KeySec
 
-Plataforma educativa de cibersegurança e conscientização digital. Possui um assistente interativo baseado em regras e estruturas JSON para auxiliar na experiência de aprendizado.
+Plataforma educativa voltada à cibersegurança e conscientização digital, com assistente interativo baseado em regras e estruturas JSON.
 
 Tecnologias: Next.js, React, JavaScript e CSS Modules.
 
-Atividade no GitHub
+Repositório: keysec-project
+
+Métricas do GitHub
 
 <div align="center">
 
-<img height="180" src="https://github-readme-stats.vercel.app/api?username=dutraeduardo89&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true" alt="Estatísticas do GitHub"/>
-
-<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dutraeduardo89&layout=compact&theme=github_dark&hide_border=true" alt="Linguagens mais utilizadas"/>
+<img src="./metrics.svg" width="100%" alt="Métricas e estatísticas do GitHub"/>
 
 </div>
 
-Vamos nos conectar
+Contato
 
 <div align="center">
 
-<a href="https://www.linkedin.com/in/eduardo-dutra-a99663401/">
-<img src="https://img.shields.io/badge/LinkedIn- Eduardo Dutra-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-
-<a href="https://github.com/dutraeduardo89">
-<img src="https://img.shields.io/badge/GitHub-dutraeduardo89-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-
-<br/><br/>
-
-Desenvolvimento contínuo, aprendizado e construção de soluções.
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 
 </div>
