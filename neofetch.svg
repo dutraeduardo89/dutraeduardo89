@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="460" viewBox="0 0 880 460">
   <defs>
     <style>
-      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; rx: 12; }
+      .bg { fill: #0d1117; stroke: #30363d; stroke-width: 1.5; }
       .header { fill: #161b22; }
       .text { font-family: 'Cascadia Code', 'Fira Code', 'JetBrains Mono', Consolas, monospace; font-size: 13px; fill: #c9d1d9; white-space: pre; }
-      .ascii { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 10.5px; line-height: 11px; fill: #8b949e; white-space: pre; }
+      .ascii { font-family: 'Cascadia Code', 'Fira Code', Consolas, monospace; font-size: 10.5px; fill: #8b949e; white-space: pre; }
       .ascii-hi { fill: #58a6ff; }
       .title { fill: #58a6ff; font-weight: bold; }
       .section { fill: #7ee787; font-weight: bold; }
