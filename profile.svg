@@ -1,0 +1,77 @@
+<svg width="1000" height="470" viewBox="0 0 1000 470" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect x="1" y="1" width="998" height="468" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5"/>
+
+  <path d="M2 13C2 6.92487 6.92487 2 13 2H987C993.075 2 998 6.92487 998 13V38H2V13Z" fill="#161b22"/>
+
+  <circle cx="22" cy="20" r="6" fill="#ff5f56"/>
+  <circle cx="42" cy="20" r="6" fill="#ffbd2e"/>
+  <circle cx="62" cy="20" r="6" fill="#27c93f"/>
+
+  <text x="500" y="25" text-anchor="middle" fill="#8b949e" font-family="monospace" font-size="13">
+    eduardo@dutra: ~/perfil — neofetch
+  </text>
+
+  <!-- ARTE ASCII -->
+  <g font-family="monospace" font-size="11" fill="#8b949e" xml:space="preserve">
+    <text x="20" y="65">              .,:;ii11111ii;:,.             </text>
+    <text x="20" y="78">           .:itfLLCCCCCCCCCCLLfti:.         </text>
+    <text x="20" y="91">         .;tLGGGG000000000000GGGGLt;.       </text>
+    <text x="20" y="104">        :fGG0088888888888888888800GGf:      </text>
+    <text x="20" y="117">       iG0088@@@@@@@@@@@@@@@@@@@@8800Gi     </text>
+    <text x="20" y="130">      t088@@@@@@00GGGGGGGGGG00@@@@@@880t    </text>
+    <text x="20" y="143">     f08@@@@0Gft1iiiiiiiiiiii1tfG0@@@@80f   </text>
+    <text x="20" y="156">    L88@@@0Lt1ii;;;;;;;;;;;;;;;;ii1tL0@@@88L</text>
+    <text x="20" y="169">   C8@@@0f1i;;::,,............,,::;;i1f0@@@8C</text>
+    <text x="20" y="182">  G8@@@Gt1;;:,,..  ..........  ..,,::;1tG@@@8G</text>
+    <text x="20" y="195"> 08@@@0t1;:,.   .,:;i1tttt1i;:,.   .,:;1t0@@@80</text>
+    <text x="20" y="208"><tspan fill="#3fb950">||</tspan>@@@0t1;:.   .:itfLLLCCCCLLLfti:.   .:;1t0@@@<tspan fill="#3fb950">||</tspan></text>
+    <text x="20" y="221"><tspan fill="#58a6ff">||</tspan>@@@Lt1;.   :tLG00888888888800GLt:   .;1tL@@@<tspan fill="#58a6ff">||</tspan></text>
+    <text x="20" y="234"><tspan fill="#d29922">||</tspan>@@@ft1;.  .f08@@@00GGGGGG00@@@80f.  .;1tf@@@<tspan fill="#d29922">||</tspan></text>
+    <text x="20" y="247"><tspan fill="#3fb950">||</tspan>@@@ft1;.  i08@@0Lti;::::;itL0@@80i  .;1tf@@@<tspan fill="#3fb950">||</tspan></text>
+    <text x="20" y="260"><tspan fill="#58a6ff">||</tspan>@@@Lt1;.  t8@@0t;:..    ..:;t0@@8t  .;1tL@@@<tspan fill="#58a6ff">||</tspan></text>
+    <text x="20" y="273"><tspan fill="#d29922">||</tspan>@@@0t1;.  f8@@Gt;:.  ..  .:;tG@@8f  .;1t0@@@<tspan fill="#d29922">||</tspan></text>
+    <text x="20" y="286"> 08@@@0t1;. L8@@@0Lt1i;;;;i1tL0@@@8L .;1t0@@@80</text>
+    <text x="20" y="299">  G8@@@Gt1;.C8@@@@@8800000088@@@@@8C.;1tG@@@8G</text>
+    <text x="20" y="312">   C8@@@0f1;i08@@@@@@@@@@@@@@@@@@80i;1f0@@@8C</text>
+    <text x="20" y="325">    L88@@@0L1tG08@@@@@@@@@@@@@@80Gt1L0@@@88L</text>
+    <text x="20" y="338">     f08@@@@0GLffLLCCG0000GCCLLffLG0@@@@80f</text>
+    <text x="20" y="351">      t088@@@@@@8800GGGGGGGG0088@@@@@@880t</text>
+    <text x="20" y="364">       iG0088@@@@@@@@@@@@@@@@@@@@8800Gi</text>
+    <text x="20" y="377">        :fGG0088888888888888888800GGf:</text>
+    <text x="20" y="390">       .,:;itfLLGGGGGGGGGGGGGGLLfti;:,.</text>
+    <text x="20" y="403">    .:itfLLCCG008888888888888800GCCLLfti:.</text>
+    <text x="20" y="416">  .:tLG0088@@@@@@@@@@@@@@@@@@@@@@@@8800GLt:.</text>
+    <text x="20" y="429"> .iG088@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@880Gi</text>
+  </g>
+
+  <!-- INFORMAÇÕES -->
+  <g font-family="monospace" font-size="13">
+
+    <text x="540" y="65">
+      <tspan fill="#58a6ff" font-weight="bold">eduardo@dutra</tspan>
+      <tspan fill="#484f58"> --------------------------------</tspan>
+    </text>
+
+    <text x="540" y="90"><tspan fill="#79c0ff">Cargo:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#e6edf3">Estagiário em Desenv. de Software</tspan></text>
+    <text x="540" y="112"><tspan fill="#79c0ff">Empresa:</tspan><tspan fill="#484f58"> ......... </tspan><tspan fill="#e6edf3">Refatora Informática</tspan></text>
+    <text x="540" y="134"><tspan fill="#79c0ff">Local:</tspan><tspan fill="#484f58"> ........... </tspan><tspan fill="#e6edf3">São Vicente, SP - Brasil</tspan></text>
+    <text x="540" y="156"><tspan fill="#79c0ff">Formação:</tspan><tspan fill="#484f58"> ........ </tspan><tspan fill="#e6edf3">ETEC Dra. Ruth Cardoso &amp; FORTEC</tspan></text>
+    <text x="540" y="178"><tspan fill="#79c0ff">Sistemas:</tspan><tspan fill="#484f58"> ........ </tspan><tspan fill="#e6edf3">Linux Ubuntu, Windows</tspan></text>
+
+    <text x="540" y="214"><tspan fill="#7ee787" font-weight="bold">- Stack e Ferramentas</tspan><tspan fill="#484f58"> --------------------------</tspan></text>
+
+    <text x="540" y="238"><tspan fill="#79c0ff">Back-end:</tspan><tspan fill="#484f58"> ........ </tspan><tspan fill="#e6edf3">C#, .NET, ASP.NET Core</tspan></text>
+    <text x="540" y="260"><tspan fill="#79c0ff">Bancos:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#e6edf3">PostgreSQL, MySQL, MongoDB</tspan></text>
+    <text x="540" y="282"><tspan fill="#79c0ff">Front/Mobile:</tspan><tspan fill="#484f58"> ... </tspan><tspan fill="#e6edf3">TypeScript, React, Next.js</tspan></text>
+    <text x="540" y="304"><tspan fill="#79c0ff">IA:</tspan><tspan fill="#484f58"> .............. </tspan><tspan fill="#e6edf3">Ollama, Claude, Codex, Cursor</tspan></text>
+
+    <text x="540" y="340"><tspan fill="#7ee787" font-weight="bold">- Projetos em Destaque</tspan><tspan fill="#484f58"> ---------------------------</tspan></text>
+
+    <text x="540" y="364"><tspan fill="#79c0ff">OctoSense:</tspan><tspan fill="#484f58"> ....... </tspan><tspan fill="#e6edf3">App Saúde (Flutter + .NET)</tspan></text>
+    <text x="540" y="386"><tspan fill="#79c0ff">KeySec:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#e6edf3">Portal Cibersegurança</tspan></text>
+
+    <text x="540" y="422"><tspan fill="#7ee787" font-weight="bold">- Contato e Redes</tspan><tspan fill="#484f58"> -------------------------------</tspan></text>
+    <text x="540" y="444"><tspan fill="#79c0ff">GitHub:</tspan><tspan fill="#484f58"> .......... </tspan><tspan fill="#a5d6ff">github.com/dutraeduardo89</tspan></text>
+
+  </g>
+</svg>
