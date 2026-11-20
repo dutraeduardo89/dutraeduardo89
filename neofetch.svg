@@ -1,17 +1,28 @@
 <svg xmlns="http://www.w3.org/2000/svg" width="880" height="440" viewBox="0 0 880 440">
-  <!-- Fundo e Borda -->
+  <style>
+    @keyframes blink {
+      0%, 49% { opacity: 1; }
+      50%, 100% { opacity: 0; }
+    }
+    @keyframes rgb {
+      0% { fill: #3fb950; }
+      33% { fill: #58a6ff; }
+      66% { fill: #d29922; }
+      100% { fill: #3fb950; }
+    }
+    .cursor { animation: blink 1s infinite; }
+    .rgb-led { animation: rgb 4s infinite; }
+  </style>
+
   <rect x="2" y="2" width="876" height="436" rx="12" fill="#0d1117" stroke="#30363d" stroke-width="1.5" />
-  
-  <!-- Barra Superior do Terminal -->
   <rect x="3" y="3" width="874" height="32" rx="10" fill="#161b22" />
   <rect x="3" y="22" width="874" height="14" fill="#161b22" />
   <circle cx="22" cy="19" r="6" fill="#ff5f56" />
   <circle cx="42" cy="19" r="6" fill="#ffbd2e" />
   <circle cx="62" cy="19" r="6" fill="#27c93f" />
-  <text x="440" y="23" text-anchor="middle" fill="#8b949e" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13">eduardo@dutra: ~/perfil — neofetch</text>
+  <text x="440" y="23" text-anchor="middle" fill="#8b949e" font-family="Consolas, monospace" font-size="13">eduardo@dutra: ~/perfil - neofetch</text>
 
-  <!-- Coluna Esquerda: ASCII Art com brilho animado no Headset -->
-  <g transform="translate(24, 58)" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="11" fill="#8b949e" xml:space="preserve">
+  <g transform="translate(24, 58)" font-family="Consolas, monospace" font-size="11" fill="#8b949e" xml:space="preserve">
     <text y="0">              .,:;ii11111ii;:,.             </text>
     <text y="13">           .:itfLLCCCCCCCCCCLLfti:.         </text>
     <text y="26">         .;tLGGGG000000000000GGGGLt;.       </text>
@@ -23,12 +34,12 @@
     <text y="104">   C8@@@0f1i;;::,,............,,::;;i1f0@@@8C</text>
     <text y="117">  G8@@@Gt1;;:,,..  ..........  ..,,::;1tG@@@8G</text>
     <text y="130"> 08@@@0t1;:,.   .,:;i1tttt1i;:,.   .,:;1t0@@@80</text>
-    <text y="143"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@0t1;:.   .:itfLLLCCCCLLLfti:.   .:;1t0@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
-    <text y="156"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@Lt1;.   :tLG00888888888800GLt:   .;1tL@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
-    <text y="169"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@ft1;.  .f08@@@00GGGGGG00@@@80f.  .;1tf@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
-    <text y="182"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@ft1;.  i08@@0Lti;::::;itL0@@80i  .;1tf@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
-    <text y="195"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@Lt1;.  t8@@0t;:..    ..:;t0@@8t  .;1tL@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
-    <text y="208"><tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan>@@@0t1;.  f8@@Gt;:.  ..  .:;tG@@8f  .;1t0@@@<tspan fill="#3fb950">||<animate attributeName="fill" values="#3fb950;#58a6ff;#d29922;#3fb950" dur="4s" repeatCount="indefinite" /></tspan></text>
+    <text y="143"><tspan class="rgb-led">||</tspan>@@@0t1;:.   .:itfLLLCCCCLLLfti:.   .:;1t0@@@<tspan class="rgb-led">||</tspan></text>
+    <text y="156"><tspan class="rgb-led">||</tspan>@@@Lt1;.   :tLG00888888888800GLt:   .;1tL@@@<tspan class="rgb-led">||</tspan></text>
+    <text y="169"><tspan class="rgb-led">||</tspan>@@@ft1;.  .f08@@@00GGGGGG00@@@80f.  .;1tf@@@<tspan class="rgb-led">||</tspan></text>
+    <text y="182"><tspan class="rgb-led">||</tspan>@@@ft1;.  i08@@0Lti;::::;itL0@@80i  .;1tf@@@<tspan class="rgb-led">||</tspan></text>
+    <text y="195"><tspan class="rgb-led">||</tspan>@@@Lt1;.  t8@@0t;:..    ..:;t0@@8t  .;1tL@@@<tspan class="rgb-led">||</tspan></text>
+    <text y="208"><tspan class="rgb-led">||</tspan>@@@0t1;.  f8@@Gt;:.  ..  .:;tG@@8f  .;1t0@@@<tspan class="rgb-led">||</tspan></text>
     <text y="221"> 08@@@0t1;. L8@@@0Lt1i;;;;i1tL0@@@8L .;1t0@@@80</text>
     <text y="234">  G8@@@Gt1;.C8@@@@@8800000088@@@@@8C.;1tG@@@8G</text>
     <text y="247">   C8@@@0f1;i08@@@@@@@@@@@@@@@@@@80i;1f0@@@8C</text>
@@ -43,10 +54,8 @@
     <text y="364"> .iG088@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@880Gi</text>
   </g>
 
-  <!-- Coluna Direita: Infos em Português + Cursor Piscando -->
-  <g transform="translate(345, 62)" font-family="Consolas, &#39;Courier New&#39;, monospace" font-size="13" xml:space="preserve">
+  <g transform="translate(345, 62)" font-family="Consolas, monospace" font-size="13" xml:space="preserve">
     <text y="0"><tspan fill="#58a6ff" font-weight="bold">eduardo@dutra</tspan> <tspan fill="#484f58">-------------------------------------------</tspan></text>
-    
     <text y="24"><tspan fill="#79c0ff">Cargo:</tspan> <tspan fill="#484f58">........... </tspan><tspan fill="#e6edf3">Estagiário em Desenv. de Software</tspan></text>
     <text y="42"><tspan fill="#79c0ff">Empresa:</tspan> <tspan fill="#484f58">......... </tspan><tspan fill="#e6edf3">Refatora Informática</tspan></text>
     <text y="60"><tspan fill="#79c0ff">Local:</tspan> <tspan fill="#484f58">........... </tspan><tspan fill="#e6edf3">São Vicente, SP - Brasil</tspan></text>
@@ -67,7 +76,6 @@
     <text y="324"><tspan fill="#79c0ff">LinkedIn:</tspan> <tspan fill="#484f58">........ </tspan><tspan fill="#a5d6ff">in/eduardo-dutra-a99663401</tspan></text>
     <text y="342"><tspan fill="#79c0ff">GitHub:</tspan> <tspan fill="#484f58">.......... </tspan><tspan fill="#a5d6ff">github.com/dutraeduardo89</tspan></text>
 
-    <!-- Prompt com Cursor Piscando -->
-    <text y="370"><tspan fill="#7ee787" font-weight="bold">eduardo@dutra:~$</tspan> <tspan fill="#e6edf3">█<animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite" /></tspan></text>
+    <text y="370"><tspan fill="#7ee787" font-weight="bold">eduardo@dutra:~$</tspan> <tspan fill="#e6edf3" class="cursor">█</tspan></text>
   </g>
 </svg>
