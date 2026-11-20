@@ -4,79 +4,61 @@
 
 <br/>
 
-Desenvolvedor de Software | Back-end | .NET
+**Estagiário em Desenvolvimento de Software** · Back-end · C# · .NET · APIs REST
 
-GitHub · LinkedIn
+[GitHub](https://github.com/dutraeduardo89) · [LinkedIn](https://www.linkedin.com/in/eduardo-dutra-a99663401/)
 
 </div>
 
-Perfil
+---
 
-Atualmente atuo como estagiário em Desenvolvimento de Software na Refatora Informática. Tenho foco em desenvolvimento back-end com C# e .NET, construção de APIs REST, integração com bancos de dados e exploração de inteligência artificial aplicada ao desenvolvimento de software.
+### Sobre
 
-Também trabalho com tecnologias de front-end e desenvolvimento mobile, buscando ampliar minha experiência na construção de aplicações completas.
+Estagiário em Desenvolvimento de Software na **Refatora Informática** em **São Vicente, SP — Brasil**, com formação pela **ETEC Dra. Ruth Cardoso** e **FORTEC**. Foco em back-end com **C#**, **.NET**, **ASP.NET Core** e **APIs REST**, integração com bancos de dados e uso de IA no fluxo de desenvolvimento, atuando também em front-end e mobile.
 
-Informação	Detalhes
-Cargo	Estagiário em Desenvolvimento de Software
-Empresa	Refatora Informática
-Localização	São Vicente, SP — Brasil
-Formação	ETEC Dra. Ruth Cardoso e FORTEC
-Sistemas	Linux Ubuntu e Windows
-Tecnologias
+| Campo | Detalhes |
+| :--- | :--- |
+| **Cargo** | Estagiário em Desenvolvimento de Software |
+| **Empresa** | Refatora Informática |
+| **Localização** | São Vicente, SP — Brasil |
+| **Formação** | ETEC Dra. Ruth Cardoso e FORTEC |
+| **Sistemas** | Linux Ubuntu e Windows |
+
+---
+
+### Stack e Ferramentas
 
 <div align="center">
 
-Back-end
-
+**Back-end**  
 <img src="https://skillicons.dev/icons?i=cs,dotnet" alt="C# e .NET"/>
 
-Front-end e Mobile
-
+**Front-end e Mobile**  
 <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,flutter" alt="Front-end e Mobile"/>
 
-Bancos de dados
-
+**Bancos de dados**  
 <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" alt="Bancos de dados"/>
 
-Ferramentas e ambiente
-
+**Ambiente e IA**  
 <img src="https://skillicons.dev/icons?i=linux,git,github,vscode" alt="Ferramentas"/>
 
 </div>
 
-Outras ferramentas: ASP.NET Core, APIs REST, Ollama, Claude, Codex e Cursor.
+* **Back-end e APIs:** C#, .NET, ASP.NET Core, APIs REST
+* **IA no fluxo de trabalho:** Ollama, Claude, Codex, Cursor
 
-Projetos
+---
 
-<div align="center">
+### Projetos em Destaque
 
-<a href="https://github.com/dutraeduardo89/octosense-open-source">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutraeduardo89&repo=octosense-open-source&theme=github_dark&hide_border=true" alt="OctoSense"/>
-</a>
+| Projeto | Descrição | Stack |
+| :--- | :--- | :--- |
+| **[OctoSense](https://github.com/dutraeduardo89/octosense-open-source)** | Aplicativo Android integrado ao Health Connect para leitura de sensores de smartwatches e geração de insights com IA local. | `C#` `.NET` `Flutter` `MongoDB` `Ollama` |
+| **[KeySec](https://github.com/dutraeduardo89/keysec-project)** | Plataforma educativa sobre cibersegurança e conscientização digital com assistente interativo baseado em regras e JSON. | `Next.js` `React` `JavaScript` `CSS Modules` |
 
-<a href="https://github.com/dutraeduardo89/keysec-project">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=dutraeduardo89&repo=keysec-project&theme=github_dark&hide_border=true" alt="KeySec"/>
-</a>
+---
 
-</div>
-
-OctoSense
-
-Aplicativo Android integrado ao Health Connect para leitura de dados de sensores de smartwatches e geração de insights utilizando inteligência artificial local.
-
-Tecnologias: C#, .NET, Flutter, MongoDB e Ollama.
-
-Repositório: octosense-open-source
-
-KeySec
-
-Plataforma educativa voltada à cibersegurança e conscientização digital, com assistente interativo baseado em regras e estruturas JSON.
-
-Tecnologias: Next.js, React, JavaScript e CSS Modules.
-
-Repositório: keysec-project
-
-Métricas do GitHub
+### Métricas
 
 <div align="center">
 
@@ -84,10 +66,13 @@ Métricas do GitHub
 
 </div>
 
-Contato
-
 <div align="center">
 
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+<a href="https://www.linkedin.com/in/eduardo-dutra-a99663401/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://github.com/dutraeduardo89" target="_blank">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
 
 </div>
